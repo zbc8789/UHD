@@ -1,0 +1,27 @@
+<mixer>
+	<ctl name="HP Playback Volume" value="30"/>
+	<ctl name="DAC1 MIXL DAC1 Switch" value="1"/>
+	<ctl name="DAC1 MIXR DAC1 Switch" value="1"/>
+	<ctl name="Stereo DAC MIXR DAC R1 Switch" value="1"/>
+	<ctl name="Stereo DAC MIXL DAC L1 Switch" value="1"/>
+
+
+	<ctl name="DSP Function Switch" value="AEC Handsfree"/>
+    <ctl name="DSP UL Mux" value="DSP"/>
+    <ctl name="ASRC Switch" value="Disable"/>
+    <ctl name="Modem Input Switch" value="0"/>
+   	<ctl name="Headset Jack Switch" value="0"/>
+    <ctl name="Mic Jack Switch" value="1"/>
+    <ctl name="RECMIXL BST2 Switch" value="1"/>
+    <ctl name="RECMIXR BST2 Switch" value="1"/>
+    <ctl name="Mono ADC L1 Mux" value="ADC1"/>
+    <ctl name="Mono ADC R1 Mux" value="ADC2"/>
+    <ctl name="Mono ADC MIXL ADC1 Switch" value="1"/>
+    <ctl name="Mono ADC MIXR ADC1 Switch" value="1"/>
+	<ctl name="IF1 ADC1 IN2 Mux" value="IF1_ADC4"/>
+    <ctl name="IN2 Boost" value="0"/>
+	<ctl name="Mono ADC Capture Volume" value="100"/>
+    <ctl name="Mono ADC MIXL ADC2 Switch" value="0"/>
+    <ctl name="Mono ADC MIXR ADC2 Switch" value="0"/>
+
+</mixer>

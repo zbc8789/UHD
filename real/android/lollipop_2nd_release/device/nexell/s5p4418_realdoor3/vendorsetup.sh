@@ -1,0 +1,2 @@
+add_lunch_combo aosp_s5p4418_real_door3-userdebug
+#add_lunch_combo full_s5p4418_real_door3-userdebug

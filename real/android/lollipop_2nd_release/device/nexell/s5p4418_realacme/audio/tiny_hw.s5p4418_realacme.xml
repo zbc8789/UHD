@@ -1,0 +1,5 @@
+<mixer>
+  <!-- These are the initial mixer settings -->
+  <ctl name="Speaker Playback Volume" value="31" />ADC Capture Volume
+  <ctl name="ADC Capture Volume" value="90" />
+</mixer>

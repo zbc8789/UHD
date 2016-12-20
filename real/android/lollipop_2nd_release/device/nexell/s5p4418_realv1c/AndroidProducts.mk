@@ -1,0 +1,2 @@
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/aosp_s5p4418_realv1c.mk
+
